@@ -58,10 +58,10 @@
 }
 #box-buttons
 {
-	top:64px;
-	right:64px;
-	bottom:64px;
-	left:64px;
+	top:0px;
+	right:0px;
+	bottom:0px;
+	left:0px;
 	position:absolute;
 }
 #box-store
@@ -171,8 +171,8 @@
 
 .fullWidth .thing-icon
 {
-	margin-top:10px;
-	margin-bottom:10px;
+	margin-top:100px;
+	margin-bottom:100px;
 }
 .fullWidth .thing-text
 {
