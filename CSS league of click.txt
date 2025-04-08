@@ -26,11 +26,11 @@
 
 .box-header
 {
-	margin-bottom:4px;
+	margin-bottom:0px;
 }
 .box-footer
 {
-	margin-top:4px;
+	margin-top:0px;
 }
 
 .title
